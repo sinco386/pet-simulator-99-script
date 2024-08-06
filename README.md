@@ -1,4 +1,4 @@
-#Pet Simulator 99 Script 2024 Dino Lab tycoon UPDATE [PS99]
+# Pet Simulator 99 Script 2024 Dino Lab tycoon UPDATE [PS99]
 
 WELCOME
 
