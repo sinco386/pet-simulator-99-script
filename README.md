@@ -2,9 +2,8 @@
 
 # SCRIPT:
 
-copy this script and paste into injector this is an all in 1
-
 **script- loadstring(game:HttpGet('https://raw.githubusercontent.com/sinco386/pet-simulator-99-script/main/script.lua'))()**
+
 copy this script and paste into injector this is an all in 1
 
 
